@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/saydone-react/static/css/main.d0bf9513.chunk.css",
+    "main.js": "/saydone-react/static/js/main.169d135c.chunk.js",
+    "main.js.map": "/saydone-react/static/js/main.169d135c.chunk.js.map",
+    "runtime-main.js": "/saydone-react/static/js/runtime-main.ef449864.js",
+    "runtime-main.js.map": "/saydone-react/static/js/runtime-main.ef449864.js.map",
+    "static/js/2.72fd8054.chunk.js": "/saydone-react/static/js/2.72fd8054.chunk.js",
+    "static/js/2.72fd8054.chunk.js.map": "/saydone-react/static/js/2.72fd8054.chunk.js.map",
+    "index.html": "/saydone-react/index.html",
+    "static/css/main.d0bf9513.chunk.css.map": "/saydone-react/static/css/main.d0bf9513.chunk.css.map",
+    "static/js/2.72fd8054.chunk.js.LICENSE.txt": "/saydone-react/static/js/2.72fd8054.chunk.js.LICENSE.txt",
+    "static/media/logo.db36153e.svg": "/saydone-react/static/media/logo.db36153e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef449864.js",
+    "static/js/2.72fd8054.chunk.js",
+    "static/css/main.d0bf9513.chunk.css",
+    "static/js/main.169d135c.chunk.js"
+  ]
+}
